@@ -1,0 +1,19 @@
+= 技術書典05 サポート
+
+== About
+
+技術書典05で発行したてっくやみなべ Vol.1に執筆した「快適なスライド閲覧⽣活を実現する
+Web サービスの開発」のサポートページです。
+原稿内容およびスライド閲覧補助サービス、利用ライブラリについて補足説明致します。
+
+
+== スライド閲覧補助サービス
+* http://slidescraper.s3-website-ap-northeast-1.amazonaws.com/[SlideScraper]
+
+== 利用ライブラリ
+
+* https://github.com/ngram/slidescraper[slidescraper gem(整理中、少々お待ち下さい)]
+
+== お問い合わせ
+
+原稿に関するお問い合わせはIssueにお願い致します。
