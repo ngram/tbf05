@@ -8,11 +8,11 @@ Web サービスの開発」のサポートページです。
 
 
 == スライド閲覧補助サービス
-* http://slidescraper.s3-website-ap-northeast-1.amazonaws.com/[SlideScraper]
+* 公開終了しました
 
 == 利用ライブラリ
 
-* https://github.com/ngram/slidescraper[slidescraper gem(整理中、少々お待ち下さい)]
+* https://github.com/ngram/gento[gento gem]
 
 == お問い合わせ
 
